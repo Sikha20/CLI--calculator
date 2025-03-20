@@ -1,3 +1,6 @@
+def multiply(a, b):
+    return a * b
+
 def calculator():
     while True:
         print("\nSimple Calculator")
